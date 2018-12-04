@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="LabView_Test.vi" Type="VI" URL="../LabView_Test.vi"/>
+		<Item Name="CluseterTest.vi" Type="VI" URL="../CluseterTest.vi"/>
 		<Item Name="의존성" Type="Dependencies"/>
 		<Item Name="빌드 스펙" Type="Build"/>
 	</Item>
