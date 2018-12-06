@@ -10,8 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="F_to_C.vi" Type="VI" URL="../F_to_C.vi"/>
-		<Item Name="Testing4.vi" Type="VI" URL="../Testing4.vi"/>
+		<Item Name="Review3.vi" Type="VI" URL="../Review3.vi"/>
+		<Item Name="글로벌 1.vi" Type="VI" URL="../글로벌 1.vi"/>
 		<Item Name="의존성" Type="Dependencies"/>
 		<Item Name="빌드 스펙" Type="Build"/>
 	</Item>
